@@ -3,7 +3,7 @@
 
 **Trường**: Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT)
 
-**Giảng viên hướng dẫn**: (Điền tên giảng viên)
+**Giảng viên hướng dẫn**: Ths: Đỗ Phi Hưng
 
 ## Mô tả
 Báo cáo này trình bày quá trình triển khai hệ thống bảo mật Endpoint, bao gồm:
